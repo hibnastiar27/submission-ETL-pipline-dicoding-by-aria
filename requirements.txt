@@ -1,0 +1,12 @@
+pandas  
+requests  
+beautifulsoup4  
+psycopg2-binary  
+pytest  
+pytest-cov
+google-api-python-client
+colorama
+google-auth
+google-auth-oauthlib
+sqlalchemy
+coverage
